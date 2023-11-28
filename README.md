@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Annisa Rachmasari</h1>
 <h3 align="center">A web developer and designer who love using code to merge design and technology, creating aesthetically pleasing and functional outcomes.</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **saa.annisa15@mail.com**
 
