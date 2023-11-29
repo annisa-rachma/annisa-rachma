@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Annisa Rachmasari</h1>
-<h3 align="center">A web developer and designer who love using code to merge design and technology, creating aesthetically pleasing and functional outcomes.</h3>
+<h2 align="left">Hi 👋, I'm Annisa Rachmasari</h2>
+<h3 align="left">A web developer and designer who love using code to merge design and technology, creating aesthetically pleasing and functional outcomes.</h3>
 
 - 🌱 I’m currently learning **Typescript**
 
