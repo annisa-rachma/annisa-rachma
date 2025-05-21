@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 📫 How to reach me **saa.annisa15@mail.com**
+- 📫 How to reach me **annisa.rachmasari08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
